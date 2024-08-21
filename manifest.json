@@ -1,0 +1,11 @@
+{
+    "name": "QR Gen",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Instant qr code generation from the current tab",
+    "permissions": ["tabs"],
+    "action": {
+        "default_icon":"icon.jpg",
+        "default_popup":"index.html"
+    }
+}
